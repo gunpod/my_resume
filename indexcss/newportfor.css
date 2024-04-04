@@ -1,0 +1,97 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.picturemain img{
+
+  width: 700px;
+  align-items: center; 
+  height: auto; 
+
+}
+.row1 {
+  background-color: white;
+  color: rgb(152, 11, 11);
+  width: 200px;
+  height: 100vh; 
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto; 
+  
+ 
+}
+.row1 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.row1 ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: blue; 
+}
+
+
+.row1 ul li a:hover {
+    background-color: white;
+}
+
+.container{
+  padding-left: 200px;
+  width: 5000px;
+  background-color:white;
+  
+}
+.hov-primary {
+  text-decoration: none; 
+  color: blue; 
+  border: 1px solid transparent;
+  padding: 20px 40px; 
+  transition: color 0.3s, border-color 0.3s; 
+  font-size: 28px;
+  background-color: white;
+}
+
+.hov-primary:hover {
+  color: #ff0000; 
+  border-color: #ff0000; 
+}
+.bar{
+  background-color: white;
+  color: rgb(152, 11, 11);
+  width: 100px;
+  height: 100vh; 
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto; 
+}
+.edu{
+  margin-left: 200px;
+  margin-top: 200px;
+
+}
+.education1{
+  width: 550px;
+  height: 200px;
+  background-color: #ece4e4;
+}

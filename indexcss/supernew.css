@@ -1,0 +1,55 @@
+.content img{
+    width: 500px;
+    align-items: center; 
+    height: auto; 
+    border-radius: 50%;
+    margin-bottom: 100px;
+    border: 10px solid #5f06fa;
+}
+.content h2 {
+    color: #5f06fa;
+}
+.content p {
+    color: #5f06fa;
+}
+.contentcon {
+    padding: 20px; /* เพิ่ม padding รอบส่วนข้อความ */
+    color: #5f06fa;
+    max-width: 600px; /* กำหนดความกว้างสูงสุดของ container */
+    margin: auto; /* จัดให้ container อยู่ตรงกลางของหน้าจอ */
+    text-align: center; /* จัดให้เนื้อหาอยู่ตรงกลางของ container */
+    background-color: transparent;
+    font-size: large;
+}
+.contentcon img{
+    width: 400px;
+    align-items: center; 
+    height: auto; 
+    border-radius: 50%;
+    margin-bottom: 100px;
+    border: 10px solid #5f06fa;
+    flex-direction: row;
+}
+.conimg img{
+    width: 400px;
+    align-items: center; 
+    height: auto; 
+    border-radius: 50%;
+    margin-bottom: 100px;
+    border: 10px solid #5f06fa;
+}
+.conimg{
+    padding: 20px; /* เพิ่ม padding รอบส่วนข้อความ */
+    max-width: 600px; /* กำหนดความกว้างสูงสุดของ container */
+    margin: auto; /* จัดให้ container อยู่ตรงกลางของหน้าจอ */
+    text-align: center; /* จัดให้เนื้อหาอยู่ตรงกลางของ container */
+    
+}
+.edupic img{
+   
+    margin-left: 500px;
+    width: 200px; /* กำหนดขนาดของรูป */ 
+    margin: 10px; /* กำหนดระยะห่างระหว่างรูป */
+    border-radius: 50%; /* ทำให้รูปมีมุมโค้งเป็นวงกลม */
+    border: 5px solid #5f06fa; /* เพิ่มเส้นขอบสีม่วง */
+}
